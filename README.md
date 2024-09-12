@@ -16,7 +16,7 @@
 - Hifi link: https://www.figma.com/design/nkKsrKSaK8KcVGvyp5anU1/PIZZA?node-id=0-1&node-type=canvas&t=prFZDRD4VDrBueyd-0
 - Prototype link: https://www.figma.com/proto/nkKsrKSaK8KcVGvyp5anU1/PIZZA?node-id=29-573&node-type=frame&t=eR6DX0AcsyinhhHf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1
 
-4. HTML/CSS
+4. HTML/CSS (static mockup)
 
 - GitHub host link: https://jdoong1.github.io/Pizza/
 
