@@ -18,7 +18,7 @@
 
 4. HTML/CSS
 
-- GitHub link: https://github.com/Jdoong1/Pizza
+- GitHub host link: https://jdoong1.github.io/Pizza/
 
 5. Documentation
 
